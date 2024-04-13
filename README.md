@@ -3,7 +3,7 @@
 ### Hi there 👋
 Hi there
 My name is Mateus, I'm 24 years old, born and living in Brazil.
-I'm a programming student at DNC's School. Here's some of my projects that I developed as part of my studying projects, to learn how to use HTML, CSS and some functionalities of JavaScript. As a student, I'm also looking for an opportunity to migrate to the programming area and broaden my horizons, so I can improve my skils and be part of changes in the tech world.
+I'm a programming student at DNC's School. Here's some of my projects that I developed as part of my studying to learn HTML, CSS and some functionalities of JavaScript. As a student, I'm also looking for an opportunity to migrate to the programming area and broaden my horizons, so I can improve my skils and be part of changes in the tech world.
 
 ----
 
